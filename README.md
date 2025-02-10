@@ -98,6 +98,7 @@
 * https://surf.dev/flutter-under-the-hood/
 * https://docs.flutter.dev/resources/architectural-overview
 * https://surf.dev/flutter-architecture-guide/
+* https://medium.com/@kavyapandeyksp11/using-the-audioplayers-package-to-fix-audio-cache-issues-in-flutter-21728033743f
 
 #### Security
 * [OWASP MASVS](https://owasp.org/www-project-mobile-app-security/) - Mobile Application Security Verification Standard
@@ -116,6 +117,7 @@
 * https://developer.mixpanel.com/docs/flutter
 * https://docs.smartlook.com/docs/sdk/flutter
 * https://pub.dev/packages/datadog_flutter_plugin
+
 
 #### Store
 * https://developer.apple.com/app-store/review/guidelines/
